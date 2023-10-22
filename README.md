@@ -39,7 +39,7 @@ This project is licensed under the [Creative Commons Attribution] - see the [LIC
 
 ---------------------
 
-French : 
+Français : 
 
 # CupCake
 
